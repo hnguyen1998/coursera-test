@@ -73,11 +73,11 @@ li{
 
 
 .row{
-	margin: 20px;
+	margin: 15px;
 }
 
 .content-box{
-	margin: 20px;
+	margin: 15px;
 	width: auto;
 	height: auto;
 	color: black;
@@ -92,3 +92,6 @@ li{
 	font-weight: bold;
 }
 
+#top{
+	
+}
